@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="us: adult swim" group-title="Portal 27 CENSORED [Uncategorized]" tvg-name="US: ADULT SWIM" tvg-logo="http://xc.contact:80/images/Jd-tZSqDQbn7P7671GfGESTHB2lucqO094OHjWWV6Kc28jPAxhm_P_PbWvVbDBzK.png",US: ADULT SWIM
+http://clubxc.com:8080/c/play/live.php?mac=00:1A:79:C8:09:51&stream=628986&extension=ts&play_token=VmOyiYIYcE
+#EXTINF:-1 tvg-id="ca - adult swim hd" group-title="Portal 27 CENSORED [Uncategorized]" tvg-name="CA - ADULT SWIM HD" tvg-logo="https://i.ibb.co/zHQ6wL5/LIVE-LOGO-PNG.png",CA - ADULT SWIM HD
+http://clubxc.com:8080/c/play/live.php?mac=00:1A:79:C8:09:51&stream=563671&extension=ts&play_token=VmOyiYIYcE
