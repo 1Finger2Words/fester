@@ -1,97 +1,97 @@
-﻿#EXTM3U
-#EXTINF:-1 group-title="UHD" tvg-name="┃DE┃ RTL 4K UHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/RTL 4K UHD.png" ,┃DE┃ RTL 4K UHD
+#EXTM3U
+#EXTINF:-1 group-title="UHD" tvg-name="RTL" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/RTL 4K UHD.png"  tvg-id="RTL.de",┃DE┃ RTL 4K UHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=893916&extension=ts&play_token=3JlCInwZDO
-#EXTINF:-1 group-title="UHD" tvg-name="┃DE┃ PRO7SAT.1 4K UHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/PRO7SAT.1 4K UHD.png" ,┃DE┃ PRO7SAT.1 4K UHD
+#EXTINF:-1 group-title="UHD" tvg-name="Sat.1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/PRO7SAT.1 4K UHD.png"  tvg-id="Sat1.de",┃DE┃ PRO7SAT.1 4K UHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=893915&extension=ts&play_token=gE26L87oUK
-#EXTINF:-1 group-title="UHD" tvg-name="┃DE┃ SKY SPORT BUNDESLIGA 4K UHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/SKY SPORT BUNDESLIGA 4K UH.png" ,┃DE┃ SKY SPORT BUNDESLIGA 4K UHD
+#EXTINF:-1 group-title="UHD" tvg-name="Sky Sport News HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/4K UHD KANÄLE/SKY SPORT BUNDESLIGA 4K UH.png"  tvg-id="SkySportNewsHD.de",┃DE┃ SKY SPORT BUNDESLIGA 4K UHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=893917&extension=ts&play_token=SIIBY8K1WP
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ DAS ERSTE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/DAS ERSTE.png" ,┃DE┃ DAS ERSTE FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Das Erste" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/DAS ERSTE.png"  tvg-id="DasErste.de",┃DE┃ DAS ERSTE FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025123&extension=ts&play_token=PdL7p6mnbJ
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ ZDF FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF.png" ,┃DE┃ ZDF FHD
+#EXTINF:-1 group-title="FHD" tvg-name="ZDF" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF.png"  tvg-id="ZDF.de",┃DE┃ ZDF FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025124&extension=ts&play_token=ny8Yb2Az5O
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ RTL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RTL.png" ,┃DE┃ RTL FHD
+#EXTINF:-1 group-title="FHD" tvg-name="RTL" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RTL.png"  tvg-id="RTL.de",┃DE┃ RTL FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025125&extension=ts&play_token=DKnLfwGE8Y
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ RTL ZWEI FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RTL ZWEI.png" ,┃DE┃ RTL ZWEI FHD
+#EXTINF:-1 group-title="FHD" tvg-name="RTL II" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/RTL ZWEI.png"  tvg-id="RTL2.de",┃DE┃ RTL ZWEI FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025130&extension=ts&play_token=QaW6LIPGP7
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SAT.1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/SAT.1.png" ,┃DE┃ SAT.1 FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Sat.1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/SAT.1.png"  tvg-id="Sat1.de",┃DE┃ SAT.1 FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025126&extension=ts&play_token=EMyUUiAn4x
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ PROSIEBEN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/PROSIEBEN.png" ,┃DE┃ PROSIEBEN FHD
+#EXTINF:-1 group-title="FHD" tvg-name="ProSieben" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/PROSIEBEN.png"  tvg-id="ProSieben.de",┃DE┃ PROSIEBEN FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025127&extension=ts&play_token=YgYl9pjcTe
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ PROSIEBEN MAXX FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/PROSIEBEN MAXX.png" ,┃DE┃ PROSIEBEN MAXX FHD
+#EXTINF:-1 group-title="FHD" tvg-name="ProSieben Maxx" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/PROSIEBEN MAXX.png"  tvg-id="ProSiebenMaxx.de",┃DE┃ PROSIEBEN MAXX FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025141&extension=ts&play_token=5RtDSFkdLS
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ PROSIEBEN FUN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/PROSIEBEN FUN.png" ,┃DE┃ PROSIEBEN FUN FHD
+#EXTINF:-1 group-title="FHD" tvg-name="ProSieben" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/PROSIEBEN FUN.png"  tvg-id="ProSieben.de",┃DE┃ PROSIEBEN FUN FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025156&extension=ts&play_token=xpQjarLKpn
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ VOX FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/VOX.png" ,┃DE┃ VOX FHD
+#EXTINF:-1 group-title="FHD" tvg-name="VOX" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/VOX.png"  tvg-id="Vox.de",┃DE┃ VOX FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025128&extension=ts&play_token=1JltFS9Tw8
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ KABEL EINS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/KABEL EINS.png" ,┃DE┃ KABEL EINS FHD
+#EXTINF:-1 group-title="FHD" tvg-name="kabel eins" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/KABEL EINS.png"  tvg-id="KabelEins.de",┃DE┃ KABEL EINS FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025129&extension=ts&play_token=iGamWUgTMd
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ KABEL EINS DOKU FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/KABEL EINS DOKU.png" ,┃DE┃ KABEL EINS DOKU FHD
+#EXTINF:-1 group-title="FHD" tvg-name="kabel eins Doku" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/KABEL EINS DOKU.png"  tvg-id="KabelEinsDoku.de",┃DE┃ KABEL EINS DOKU FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025151&extension=ts&play_token=d3gmnHi5t0
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ KABEL EINS CLASSICS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/KABEL EINS CLASSICS.png" ,┃DE┃ KABEL EINS CLASSICS FHD
+#EXTINF:-1 group-title="FHD" tvg-name="kabel eins class" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/KABEL EINS CLASSICS.png"  tvg-id="KabelEinsClassic.de",┃DE┃ KABEL EINS CLASSICS FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025155&extension=ts&play_token=hbXyuntCp1
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ N-TV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/N-TV.png" ,┃DE┃ N-TV FHD
+#EXTINF:-1 group-title="FHD" tvg-name="n-tv" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/N-TV.png"  tvg-id="ntv.de",┃DE┃ N-TV FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025133&extension=ts&play_token=X1CSO7vyBw
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ WELT FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/WELT.png" ,┃DE┃ WELT FHD
+#EXTINF:-1 group-title="FHD" tvg-name="WELT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/WELT.png"  tvg-id="WELT.de",┃DE┃ WELT FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025132&extension=ts&play_token=nNrpZQi8TM
 #EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ WELT DER WUNDER FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/WELT DER WUNDER.png" ,┃DE┃ WELT DER WUNDER FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025154&extension=ts&play_token=PB0fOv1rFq
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ TAGESSCHAU 24 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/TAGESSCHAU 24.png" ,┃DE┃ TAGESSCHAU 24 FHD
+#EXTINF:-1 group-title="FHD" tvg-name="tagesschau24" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/TAGESSCHAU 24.png"  tvg-id="tagesschau24.de",┃DE┃ TAGESSCHAU 24 FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025153&extension=ts&play_token=QDuZCZzM3L
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ PHOENIX FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/PHOENIX.png" ,┃DE┃ PHOENIX FHD
+#EXTINF:-1 group-title="FHD" tvg-name="phoenix" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/PHOENIX.png"  tvg-id="phoenix.de",┃DE┃ PHOENIX FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025134&extension=ts&play_token=CKyjIobVpD
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ ARD-ALPHA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ARD-ALPHA.png" ,┃DE┃ ARD-ALPHA FHD
+#EXTINF:-1 group-title="FHD" tvg-name="ard-alpha" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ARD-ALPHA.png"  tvg-id="ARD-alpha.de",┃DE┃ ARD-ALPHA FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025149&extension=ts&play_token=mSuaAfzKDo
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ NITRO FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/NITRO.png" ,┃DE┃ NITRO FHD
+#EXTINF:-1 group-title="FHD" tvg-name="RTL Nitro" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/NITRO.png"  tvg-id="RTLNitro.de",┃DE┃ NITRO FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025143&extension=ts&play_token=j4LfZfELYN
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ ZDF NEO FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF NEO.png" ,┃DE┃ ZDF NEO FHD
+#EXTINF:-1 group-title="FHD" tvg-name="ZDFneo" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF NEO.png"  tvg-id="ZDFneo.de",┃DE┃ ZDF NEO FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025136&extension=ts&play_token=p3SPiSmlLL
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ ZDF INFO FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF INFO.png" ,┃DE┃ ZDF INFO FHD
+#EXTINF:-1 group-title="FHD" tvg-name="ZDFinfokanal" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF INFO.png"  tvg-id="ZDFinfo.de",┃DE┃ ZDF INFO FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025150&extension=ts&play_token=8eprSKshEx
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ DMAX FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/DMAX.png" ,┃DE┃ DMAX FHD
+#EXTINF:-1 group-title="FHD" tvg-name="DMAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/DMAX.png"  tvg-id="DMax.de",┃DE┃ DMAX FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025160&extension=ts&play_token=fr0sysYBHf
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ TELE 5 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/TELE 5.png" ,┃DE┃ TELE 5 FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Tele 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/TELE 5.png"  tvg-id="Tele5.de",┃DE┃ TELE 5 FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025135&extension=ts&play_token=6y4CINLXBz
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ ONE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ONE.png" ,┃DE┃ ONE FHD
+#EXTINF:-1 group-title="FHD" tvg-name="One" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ONE.png"  tvg-id="One.de",┃DE┃ ONE FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025138&extension=ts&play_token=TDW2c7hqSc
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ ANIXE SERIE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ANIXE SERIE.png" ,┃DE┃ ANIXE SERIE FHD
+#EXTINF:-1 group-title="FHD" tvg-name="ANIXE Serie HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ANIXE SERIE.png"  tvg-id="AnixeSerie.de",┃DE┃ ANIXE SERIE FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025140&extension=ts&play_token=BhIqL3TLI4
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ ANIXE+ FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ANIXE+.png" ,┃DE┃ ANIXE+ FHD
+#EXTINF:-1 group-title="FHD" tvg-name="ANIXE SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ANIXE+.png"  tvg-id="Anixe.de",┃DE┃ ANIXE+ FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025139&extension=ts&play_token=oZ3Hg00o5h
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ N24 DOKU FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/N24 DOKU.png" ,┃DE┃ N24 DOKU FHD
+#EXTINF:-1 group-title="FHD" tvg-name="N24 Doku" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/N24 DOKU.png"  tvg-id="N24Doku.de",┃DE┃ N24 DOKU FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025152&extension=ts&play_token=6LHA5eQVOg
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ TAGESSCHAU 24 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/TAGESSCHAU 24.png" ,┃DE┃ TAGESSCHAU 24 FHD
+#EXTINF:-1 group-title="FHD" tvg-name="tagesschau24" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/TAGESSCHAU 24.png"  tvg-id="tagesschau24.de",┃DE┃ TAGESSCHAU 24 FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025181&extension=ts&play_token=qlJ6RZsaWV
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ ARD-ALPHA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/ARD-ALPHA.png" ,┃DE┃ ARD-ALPHA FHD
+#EXTINF:-1 group-title="FHD" tvg-name="ard-alpha" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/ARD-ALPHA.png"  tvg-id="ARD-alpha.de",┃DE┃ ARD-ALPHA FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025183&extension=ts&play_token=piTp5rkMs1
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ DAS ERSTE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/DAS ERSTE.png" ,┃DE┃ DAS ERSTE FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Das Erste" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/DAS ERSTE.png"  tvg-id="DasErste.de",┃DE┃ DAS ERSTE FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025175&extension=ts&play_token=HORzlp2wc6
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ ZDF FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/ZDF.png" ,┃DE┃ ZDF FHD
+#EXTINF:-1 group-title="FHD" tvg-name="ZDF" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/ZDF.png"  tvg-id="ZDF.de",┃DE┃ ZDF FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025176&extension=ts&play_token=KsITzArfpq
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ WELT FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/WELT.png" ,┃DE┃ WELT FHD
+#EXTINF:-1 group-title="FHD" tvg-name="WELT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/WELT.png"  tvg-id="WELT.de",┃DE┃ WELT FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025178&extension=ts&play_token=JIOsah26qc
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ N-TV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/N-TV.png" ,┃DE┃ N-TV FHD
+#EXTINF:-1 group-title="FHD" tvg-name="n-tv" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/N-TV.png"  tvg-id="ntv.de",┃DE┃ N-TV FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025177&extension=ts&play_token=1YQEtVzQvs
 #EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY ONE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY ONE.png" ,┃DE┃ SKY ONE FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025210&extension=ts&play_token=UA07S2MrAm
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY CINEMA PREMIEREN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY CINEMA PREMIEREN.png" ,┃DE┃ SKY CINEMA PREMIEREN FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY CINEMA PREMIEREN.png"  tvg-id="9315",┃DE┃ SKY CINEMA PREMIEREN FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025211&extension=ts&play_token=LrEC9LnvCO
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY CINEMA HIGHLIGHTS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY CINEMA HIGHLIGHTS.png" ,┃DE┃ SKY CINEMA HIGHLIGHTS FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY CINEMA HIGHLIGHTS.png"  tvg-id="9315",┃DE┃ SKY CINEMA HIGHLIGHTS FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025213&extension=ts&play_token=oAUFpXBJpM
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY CINEMA ACTION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY CINEMA ACTION.png" ,┃DE┃ SKY CINEMA ACTION FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY CINEMA ACTION.png"  tvg-id="9315",┃DE┃ SKY CINEMA ACTION FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025212&extension=ts&play_token=R2bJLdR8N2
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY CINEMA FAMILY FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY CINEMA FAMILY.png" ,┃DE┃ SKY CINEMA FAMILY FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY CINEMA FAMILY.png"  tvg-id="9315",┃DE┃ SKY CINEMA FAMILY FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025214&extension=ts&play_token=z3DQh4Srh5
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY CINEMA CLASSICS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY CINEMA CLASSICS.png" ,┃DE┃ SKY CINEMA CLASSICS FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY CINEMA CLASSICS.png"  tvg-id="9315",┃DE┃ SKY CINEMA CLASSICS FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025215&extension=ts&play_token=VFJw65XxIj
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY ATLANTIC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY ATLANTIC.png" ,┃DE┃ SKY ATLANTIC FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Sky Atlantic" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY ATLANTIC.png"  tvg-id="12478",┃DE┃ SKY ATLANTIC FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025218&extension=ts&play_token=qozlV8rzs2
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY KRIMI FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY KRIMI.png" ,┃DE┃ SKY KRIMI FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Sky Crime" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY KRIMI.png"  tvg-id="12394",┃DE┃ SKY KRIMI FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025217&extension=ts&play_token=He5ENTGZTL
 #EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY SC-FI FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY REPLAY.png" ,┃DE┃ SKY SC-FI FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025219&extension=ts&play_token=Y6z4MbDexD
 #EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY SHOWCASE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY SHOWCASE.png" ,┃DE┃ SKY SHOWCASE FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025216&extension=ts&play_token=bjMqxL02L0
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ COMEDY CENTRAL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/UNTERHALTUNG/COMEDY CENTRAL.png" ,┃DE┃ COMEDY CENTRAL FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Comedy Central HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/UNTERHALTUNG/COMEDY CENTRAL.png"  tvg-id="464922",┃DE┃ COMEDY CENTRAL FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025224&extension=ts&play_token=COPub9QqqE
 #EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ 13TH STREET FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/UNTERHALTUNG/13TH STREET.png" ,┃DE┃ 13TH STREET FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025231&extension=ts&play_token=MMlBVRMueA
@@ -109,39 +109,39 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025232&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025225&extension=ts&play_token=L6lU1n5BsO
 #EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ UNIVERSAL TV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/UNTERHALTUNG/UNIVERSAL TV.png" ,┃DE┃ UNIVERSAL TV FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025229&extension=ts&play_token=0Hu1AP11TP
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ KINOWELT TV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/UNTERHALTUNG/KINOWELT TV.png" ,┃DE┃ KINOWELT TV FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Kino TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/UNTERHALTUNG/KINOWELT TV.png"  tvg-id="6644",┃DE┃ KINOWELT TV FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025230&extension=ts&play_token=e6MTNTgbdR
 #EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ ROMANCE TV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/UNTERHALTUNG/ROMANCE TV.png" ,┃DE┃ ROMANCE TV FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025233&extension=ts&play_token=HJLY9LzBOn
 #EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ WEDO MOVIES FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/UNTERHALTUNG/WEDO MOVIES.png" ,┃DE┃ WEDO MOVIES FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025236&extension=ts&play_token=8hv6ii8IdC
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY DOCUMENTARIES FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/SKY DOCUMENTARIES.png" ,┃DE┃ SKY DOCUMENTARIES FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Sky Documentaries HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/SKY DOCUMENTARIES.png"  tvg-id="454797",┃DE┃ SKY DOCUMENTARIES FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025248&extension=ts&play_token=Im4SJZEtRF
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY NATURE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/SKY NATURE.png" ,┃DE┃ SKY NATURE FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Sky Nature" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/SKY NATURE.png"  tvg-id="12131",┃DE┃ SKY NATURE FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025249&extension=ts&play_token=vtWTK8f4rJ
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SKY CRIME FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/SKY CRIME.png" ,┃DE┃ SKY CRIME FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Sky Crime" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/SKY CRIME.png"  tvg-id="12394",┃DE┃ SKY CRIME FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025247&extension=ts&play_token=hMC4dJfS3k
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ NATIONAL GEOGRAPHIC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/NATIONAL GEOGRAPHIC.png" ,┃DE┃ NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 group-title="FHD" tvg-name="National Geographic" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/NATIONAL GEOGRAPHIC.png"  tvg-id="6303",┃DE┃ NATIONAL GEOGRAPHIC FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025250&extension=ts&play_token=QehIXfbwim
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/NATIONAL GEOGRAPHIC WILD.png" ,┃DE┃ NATIONAL GEOGRAPHIC WILD FHD
+#EXTINF:-1 group-title="FHD" tvg-name="National Geographic" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/NATIONAL GEOGRAPHIC WILD.png"  tvg-id="6303",┃DE┃ NATIONAL GEOGRAPHIC WILD FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025251&extension=ts&play_token=JKDLu8Nf6i
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ DISCOVERY CHANNEL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/DISCOVERY CHANNEL.png" ,┃DE┃ DISCOVERY CHANNEL FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Discovery Life Channel" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/DISCOVERY CHANNEL.png"  tvg-id="464838",┃DE┃ DISCOVERY CHANNEL FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025252&extension=ts&play_token=462bVlLO06
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ CRIME+ INVESTIGATION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/CRIME+ INVESTIGATION.png" ,┃DE┃ CRIME+ INVESTIGATION FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Crime and Investigation Network HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/CRIME+ INVESTIGATION.png"  tvg-id="465040",┃DE┃ CRIME+ INVESTIGATION FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025253&extension=ts&play_token=EbSJmuukq8
 #EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ HISTORY CHANNEL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/HISTORY CHANNEL.png" ,┃DE┃ HISTORY CHANNEL FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025254&extension=ts&play_token=QjmsIfkakl
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ ANIMAL PLANET FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/ANIMAL PLANET.png" ,┃DE┃ ANIMAL PLANET FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Animal Planet HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/ANIMAL PLANET.png"  tvg-id="465310",┃DE┃ ANIMAL PLANET FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025255&extension=ts&play_token=cwHn2yrsc1
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ DMAX FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/DMAX.png" ,┃DE┃ DMAX FHD
+#EXTINF:-1 group-title="FHD" tvg-name="DMAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/DMAX.png"  tvg-id="DMax.de",┃DE┃ DMAX FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025271&extension=ts&play_token=tDlehLw0wc
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ TLC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/TLC.png" ,┃DE┃ TLC FHD
+#EXTINF:-1 group-title="FHD" tvg-name="TLC" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/TLC.png"  tvg-id="TLC.de",┃DE┃ TLC FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025256&extension=ts&play_token=eRJkR2IdQ9
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ N24 DOKU FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/N24 DOKU.png" ,┃DE┃ N24 DOKU FHD
+#EXTINF:-1 group-title="FHD" tvg-name="N24 Doku" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/N24 DOKU.png"  tvg-id="N24Doku.de",┃DE┃ N24 DOKU FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025270&extension=ts&play_token=gSKs6bDIwf
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ KABEL EINS DOKU FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/KABEL EINS DOKU.png" ,┃DE┃ KABEL EINS DOKU FHD
+#EXTINF:-1 group-title="FHD" tvg-name="kabel eins Doku" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/KABEL EINS DOKU.png"  tvg-id="KabelEinsDoku.de",┃DE┃ KABEL EINS DOKU FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025268&extension=ts&play_token=0N3EEgjXa0
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ GEO TELEVISION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/GEO TELEVISION.png" ,┃DE┃ GEO TELEVISION FHD
+#EXTINF:-1 group-title="FHD" tvg-name="GEO TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/GEO TELEVISION.png"  tvg-id="GeoTV.de",┃DE┃ GEO TELEVISION FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025257&extension=ts&play_token=uTQVwb2KMB
 #EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SPIEGEL GESCHICHTE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/SPIEGEL GESCHICHTE.png" ,┃DE┃ SPIEGEL GESCHICHTE FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025259&extension=ts&play_token=uPp1r3gk7J
@@ -149,75 +149,75 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025259&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025348&extension=ts&play_token=GK5XcFr8kG
 #EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ JUST FISHING FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/JUST FISHING.png" ,┃DE┃ JUST FISHING FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025353&extension=ts&play_token=yOxtUXsxS9
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ RTL NORDRHEIN-WESTFALEN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/REGIONAL/RTL.png" ,┃DE┃ RTL NORDRHEIN-WESTFALEN FHD
+#EXTINF:-1 group-title="FHD" tvg-name="RTL" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/REGIONAL/RTL.png"  tvg-id="7062",┃DE┃ RTL NORDRHEIN-WESTFALEN FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025432&extension=ts&play_token=KcpHrtfn8B
-#EXTINF:-1 group-title="FHD" tvg-name="┃DE┃ SAT.1 NORDRHEIN-WESTFALEN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/REGIONAL/SAT.1.png" ,┃DE┃ SAT.1 NORDRHEIN-WESTFALEN FHD
+#EXTINF:-1 group-title="FHD" tvg-name="Sat.1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/REGIONAL/SAT.1.png"  tvg-id="Sat1.de",┃DE┃ SAT.1 NORDRHEIN-WESTFALEN FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1025437&extension=ts&play_token=cYLYd3LZl3
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ DAS ERSTE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DASERSTE1HD.png" ,┃DE┃ DAS ERSTE HD
+#EXTINF:-1 group-title="HD" tvg-name="Das Erste" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DASERSTE1HD.png"  tvg-id="DasErste.de",┃DE┃ DAS ERSTE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=449&extension=ts&play_token=6MHpSl8Dy7
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ ZDF HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDF2HD.png" ,┃DE┃ ZDF HD
+#EXTINF:-1 group-title="HD" tvg-name="ZDF" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDF2HD.png"  tvg-id="ZDF.de",┃DE┃ ZDF HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=446&extension=ts&play_token=crb2NBm0NM
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ RTL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTLHD.png" ,┃DE┃ RTL HD
+#EXTINF:-1 group-title="HD" tvg-name="RTL" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTLHD.png"  tvg-id="RTL.de",┃DE┃ RTL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=426&extension=ts&play_token=NdIjzpIezN
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ RTL II HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTLZWEIHD.png" ,┃DE┃ RTL II HD
+#EXTINF:-1 group-title="HD" tvg-name="RTL II" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTLZWEIHD.png"  tvg-id="RTL2.de",┃DE┃ RTL II HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=425&extension=ts&play_token=B6K3jLaozh
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ SAT.1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SAT1HD.png" ,┃DE┃ SAT.1 HD
+#EXTINF:-1 group-title="HD" tvg-name="Sat.1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SAT1HD.png"  tvg-id="Sat1.de",┃DE┃ SAT.1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=432&extension=ts&play_token=tf9BuqKJMw
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ PROSIEBEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PRO7HD.png" ,┃DE┃ PROSIEBEN HD
+#EXTINF:-1 group-title="HD" tvg-name="ProSieben" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PRO7HD.png"  tvg-id="ProSieben.de",┃DE┃ PROSIEBEN HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=429&extension=ts&play_token=QacJi5aIaK
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ PROSIEBEN MAXX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/7MAXXHD.png" ,┃DE┃ PROSIEBEN MAXX HD
+#EXTINF:-1 group-title="HD" tvg-name="ProSieben Maxx" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/7MAXXHD.png"  tvg-id="ProSiebenMaxx.de",┃DE┃ PROSIEBEN MAXX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=428&extension=ts&play_token=G3gM6Mogcp
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ PROSIEBEN FUN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PRO7HD.png" ,┃DE┃ PROSIEBEN FUN HD
+#EXTINF:-1 group-title="HD" tvg-name="ProSieben" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PRO7HD.png"  tvg-id="ProSieben.de",┃DE┃ PROSIEBEN FUN HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=427&extension=ts&play_token=96hLZKrbwO
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ VOX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/VOXHD.png" ,┃DE┃ VOX HD
+#EXTINF:-1 group-title="HD" tvg-name="VOX" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/VOXHD.png"  tvg-id="Vox.de",┃DE┃ VOX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=437&extension=ts&play_token=kgvq7uns1N
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ KABEL EINS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KABELEINSHD.png" ,┃DE┃ KABEL EINS HD
+#EXTINF:-1 group-title="HD" tvg-name="kabel eins" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KABELEINSHD.png"  tvg-id="KabelEins.de",┃DE┃ KABEL EINS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=434&extension=ts&play_token=bqiztw3DmK
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ KABEL EINS DOKU HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KABELEINSDOKU.png" ,┃DE┃ KABEL EINS DOKU HD
+#EXTINF:-1 group-title="HD" tvg-name="kabel eins Doku" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KABELEINSDOKU.png"  tvg-id="KabelEinsDoku.de",┃DE┃ KABEL EINS DOKU HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=433&extension=ts&play_token=btWhIN970X
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ KABEL EINS CLASSICS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KABELEINSCLASSICSHD.png" ,┃DE┃ KABEL EINS CLASSICS HD
+#EXTINF:-1 group-title="HD" tvg-name="kabel eins class" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KABELEINSCLASSICSHD.png"  tvg-id="KabelEinsClassic.de",┃DE┃ KABEL EINS CLASSICS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=219084&extension=ts&play_token=whmZLWcSzk
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ ARTE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ARTEHD.png" ,┃DE┃ ARTE HD
+#EXTINF:-1 group-title="HD" tvg-name="ARTE" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ARTEHD.png"  tvg-id="ARTE.de",┃DE┃ ARTE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=441&extension=ts&play_token=3fem56khf6
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ SIXX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SIXXHD.png" ,┃DE┃ SIXX HD
+#EXTINF:-1 group-title="HD" tvg-name="sixx" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SIXXHD.png"  tvg-id="Sixx.de",┃DE┃ SIXX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=400&extension=ts&play_token=4cATVkPCxD
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ NTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NTVHD.png" ,┃DE┃ NTV HD
+#EXTINF:-1 group-title="HD" tvg-name="n-tv" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NTVHD.png"  tvg-id="ntv.de",┃DE┃ NTV HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=439&extension=ts&play_token=zudnGk082K
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ TAGESSCHAU24 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TAGESSCHAU24HD.png" ,┃DE┃ TAGESSCHAU24 HD
+#EXTINF:-1 group-title="HD" tvg-name="tagesschau24" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TAGESSCHAU24HD.png"  tvg-id="tagesschau24.de",┃DE┃ TAGESSCHAU24 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=447&extension=ts&play_token=aDHJEp27e1
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ PHOENIX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/CHINA/Phoenix_Chinese.svg.png" ,┃DE┃ PHOENIX HD
+#EXTINF:-1 group-title="HD" tvg-name="phoenix" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/CHINA/Phoenix_Chinese.svg.png"  tvg-id="phoenix.de",┃DE┃ PHOENIX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=708703&extension=ts&play_token=4wx64Cpg5f
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ ZDF NEO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFNEOHD.png" ,┃DE┃ ZDF NEO HD
+#EXTINF:-1 group-title="HD" tvg-name="ZDFneo" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFNEOHD.png"  tvg-id="ZDFneo.de",┃DE┃ ZDF NEO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=445&extension=ts&play_token=EW9UdIK48h
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ ZDF INFO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFINFOHD.png" ,┃DE┃ ZDF INFO HD
+#EXTINF:-1 group-title="HD" tvg-name="ZDFinfokanal" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFINFOHD.png"  tvg-id="ZDFinfo.de",┃DE┃ ZDF INFO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=444&extension=ts&play_token=tu09oioR9f
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ DMAX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DMAXHD.png" ,┃DE┃ DMAX HD
+#EXTINF:-1 group-title="HD" tvg-name="DMAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DMAXHD.png"  tvg-id="DMax.de",┃DE┃ DMAX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=435&extension=ts&play_token=TlOl4l994O
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ TELE 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TELE6HD.png" ,┃DE┃ TELE 5 HD
+#EXTINF:-1 group-title="HD" tvg-name="Tele 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TELE6HD.png"  tvg-id="Tele5.de",┃DE┃ TELE 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=401&extension=ts&play_token=CBXuXLwMXK
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ ANIXE+ HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIXEHD.png" ,┃DE┃ ANIXE+ HD
+#EXTINF:-1 group-title="HD" tvg-name="ANIXE SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIXEHD.png"  tvg-id="Anixe.de",┃DE┃ ANIXE+ HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=402&extension=ts&play_token=03u9lWkNyA
-#EXTINF:-1 group-title="HD" tvg-name="┃DE┃ WELT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/WELTHD.png" ,┃DE┃ WELT HD
+#EXTINF:-1 group-title="HD" tvg-name="WELT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/WELTHD.png"  tvg-id="WELT.de",┃DE┃ WELT HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=440&extension=ts&play_token=sQZQaF2dkX
 #EXTINF:-1 group-title="KIDS" tvg-name="☰☰☰☰ ┃DE┃ PAKET KINDER HD ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/GERMANYFLAG.png" ,☰☰☰☰ ┃DE┃ PAKET KINDER HD ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=452&extension=ts&play_token=8AVnnX3M1F
-#EXTINF:-1 group-title="KIDS" tvg-name="┃DE┃ NICKELODEON HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/nickelodeon-logo.png" ,┃DE┃ NICKELODEON HD
+#EXTINF:-1 group-title="KIDS" tvg-name="Nickelodeon" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/nickelodeon-logo.png"  tvg-id="Nickelodeon.de",┃DE┃ NICKELODEON HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=396&extension=ts&play_token=mfDVwoYVMi
 #EXTINF:-1 group-title="KIDS" tvg-name="┃DE┃ NICK TOONS" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NICKTOONSHD.png" ,┃DE┃ NICK TOONS
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=395&extension=ts&play_token=FI7yZ0bvRn
-#EXTINF:-1 group-title="KIDS" tvg-name="┃DE┃ NICK JR. HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Nick_Jr._logo.png" ,┃DE┃ NICK JR. HD
+#EXTINF:-1 group-title="KIDS" tvg-name="Nick Jr HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Nick_Jr._logo.png"  tvg-id="464911",┃DE┃ NICK JR. HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=394&extension=ts&play_token=t4DDvD1tTA
-#EXTINF:-1 group-title="KIDS" tvg-name="┃DE┃ DISNEY CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Disney_Channel_2022.png" ,┃DE┃ DISNEY CHANNEL HD
+#EXTINF:-1 group-title="KIDS" tvg-name="Disney Channel" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Disney_Channel_2022.png"  tvg-id="disneychannel.de",┃DE┃ DISNEY CHANNEL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=398&extension=ts&play_token=OAq1RiBF4B
 #EXTINF:-1 group-title="KIDS" tvg-name="┃DE┃ CARTOON NETWORK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CNHD.png" ,┃DE┃ CARTOON NETWORK HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=393&extension=ts&play_token=kpz3Y7VxKG
 #EXTINF:-1 group-title="KIDS" tvg-name="┃DE┃ CARTOONITO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CARTOONITO.png" ,┃DE┃ CARTOONITO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=392&extension=ts&play_token=7wXcJGJZuk
-#EXTINF:-1 group-title="KIDS" tvg-name="┃DE┃ SUPER RTL / TOGGO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TOGGOSUPERRTLHD.png" ,┃DE┃ SUPER RTL / TOGGO HD
+#EXTINF:-1 group-title="KIDS" tvg-name="Super RTL" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TOGGOSUPERRTLHD.png"  tvg-id="SuperRTL.de",┃DE┃ SUPER RTL / TOGGO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=390&extension=ts&play_token=tceoK4gPDT
-#EXTINF:-1 group-title="KIDS" tvg-name="┃DE┃ TOGGO PLUS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TOGGOPLUSHD.png" ,┃DE┃ TOGGO PLUS
+#EXTINF:-1 group-title="KIDS" tvg-name="TOGGOplus" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TOGGOPLUSHD.png"  tvg-id="TOGGOplus.de",┃DE┃ TOGGO PLUS
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=389&extension=ts&play_token=WSIFFzQQL0
-#EXTINF:-1 group-title="KIDS" tvg-name="┃DE┃ KIKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KIKAVONARDUNDZDFHD.png" ,┃DE┃ KIKA
+#EXTINF:-1 group-title="KIDS" tvg-name="KIKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KIKAVONARDUNDZDFHD.png"  tvg-id="Kika.de",┃DE┃ KIKA
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=388&extension=ts&play_token=4NesFbqX7w
 #EXTINF:-1 group-title="KIDS" tvg-name="┃DE┃ FIX & FOX" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FIXFOXIHD.png" ,┃DE┃ FIX & FOX
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=391&extension=ts&play_token=1rZCfVpPla
@@ -225,27 +225,27 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=391&exte
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=454&extension=ts&play_token=7lwb8l19JM
 #EXTINF:-1 group-title="SKY FS" tvg-name="┃DE┃ SKY ONE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYONEHD.png" ,┃DE┃ SKY ONE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=386&extension=ts&play_token=LJcUygI3J5
-#EXTINF:-1 group-title="SKY FS" tvg-name="┃DE┃ SKY CINEMA PREMIEREN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" ,┃DE┃ SKY CINEMA PREMIEREN HD
+#EXTINF:-1 group-title="SKY FS" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png"  tvg-id="9315",┃DE┃ SKY CINEMA PREMIEREN HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=385&extension=ts&play_token=9BpL74Uv1Z
-#EXTINF:-1 group-title="SKY FS" tvg-name="┃DE┃ SKY CINEMA ACTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" ,┃DE┃ SKY CINEMA ACTION HD
+#EXTINF:-1 group-title="SKY FS" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png"  tvg-id="9315",┃DE┃ SKY CINEMA ACTION HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=3385&extension=ts&play_token=YFBfJ56sXO
-#EXTINF:-1 group-title="SKY FS" tvg-name="┃DE┃ SKY CINEMA HIGHLIGHT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" ,┃DE┃ SKY CINEMA HIGHLIGHT HD
+#EXTINF:-1 group-title="SKY FS" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png"  tvg-id="9315",┃DE┃ SKY CINEMA HIGHLIGHT HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=380&extension=ts&play_token=UMu6QnsaNd
-#EXTINF:-1 group-title="SKY FS" tvg-name="┃DE┃ SKY CINEMA FAMILY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" ,┃DE┃ SKY CINEMA FAMILY HD
+#EXTINF:-1 group-title="SKY FS" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png"  tvg-id="9315",┃DE┃ SKY CINEMA FAMILY HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=378&extension=ts&play_token=m3qxBuYeuP
-#EXTINF:-1 group-title="SKY FS" tvg-name="┃DE┃ SKY CINEMA CLASSICS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" ,┃DE┃ SKY CINEMA CLASSICS HD
+#EXTINF:-1 group-title="SKY FS" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png"  tvg-id="9315",┃DE┃ SKY CINEMA CLASSICS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=379&extension=ts&play_token=zx3RmmEntP
-#EXTINF:-1 group-title="SKY FS" tvg-name="┃DE┃ SKY ATLANTIC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYATLANTIC.png" ,┃DE┃ SKY ATLANTIC HD
+#EXTINF:-1 group-title="SKY FS" tvg-name="Sky Atlantic" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYATLANTIC.png"  tvg-id="12478",┃DE┃ SKY ATLANTIC HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=376&extension=ts&play_token=Q9XiCjs3Yv
-#EXTINF:-1 group-title="SKY FS" tvg-name="┃DE┃ SKY KRIMI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYCRIME.png" ,┃DE┃ SKY KRIMI HD
+#EXTINF:-1 group-title="SKY FS" tvg-name="Sky Crime" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYCRIME.png"  tvg-id="12394",┃DE┃ SKY KRIMI HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=374&extension=ts&play_token=5lz0nyxT4t
 #EXTINF:-1 group-title="SKY FS" tvg-name="┃DE┃ SKY SCI-FI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYREPLAYHD.png" ,┃DE┃ SKY SCI-FI HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=375&extension=ts&play_token=xEY05R6st3
 #EXTINF:-1 group-title="UNTERHALTUNG" tvg-name="☰☰☰☰ ┃DE┃ PAKET UNTERHALTUNG HD ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/GERMANYFLAG.png" ,☰☰☰☰ ┃DE┃ PAKET UNTERHALTUNG HD ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=453&extension=ts&play_token=3gSHgb4Ua1
-#EXTINF:-1 group-title="UNTERHALTUNG" tvg-name="┃DE┃ MTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVHD.png" ,┃DE┃ MTV HD
+#EXTINF:-1 group-title="UNTERHALTUNG" tvg-name="MTV" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVHD.png"  tvg-id="MTV.de",┃DE┃ MTV HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=404&extension=ts&play_token=k9kK5wLI0w
-#EXTINF:-1 group-title="UNTERHALTUNG" tvg-name="┃DE┃ COMEDY CENTRAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Comedy_Central_2018.png" ,┃DE┃ COMEDY CENTRAL HD
+#EXTINF:-1 group-title="UNTERHALTUNG" tvg-name="Comedy Central HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Comedy_Central_2018.png"  tvg-id="464922",┃DE┃ COMEDY CENTRAL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=399&extension=ts&play_token=G7aLyzPFnb
 #EXTINF:-1 group-title="UNTERHALTUNG" tvg-name="┃DE┃ 13TH STREET HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/13STREETTHHD.png" ,┃DE┃ 13TH STREET HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=410&extension=ts&play_token=0JSy2Ivgr1
@@ -271,115 +271,115 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=408&exte
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=407&extension=ts&play_token=S4QuQYUXVl
 #EXTINF:-1 group-title="NATUR" tvg-name="☰☰☰☰ ┃DE┃ PAKET NATUR HD ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/GERMANYFLAG.png" ,☰☰☰☰ ┃DE┃ PAKET NATUR HD ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=455&extension=ts&play_token=QAaITfDFCE
-#EXTINF:-1 group-title="NATUR" tvg-name="┃DE┃ NAT GEO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NATIONALGEOGRAPHIC.png" ,┃DE┃ NAT GEO HD
+#EXTINF:-1 group-title="NATUR" tvg-name="National Geographic" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NATIONALGEOGRAPHIC.png"  tvg-id="6303",┃DE┃ NAT GEO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=357&extension=ts&play_token=scKcvaWnOP
 #EXTINF:-1 group-title="NATUR" tvg-name="┃DE┃ NAT GEO WILD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NGWILDHD.png" ,┃DE┃ NAT GEO WILD HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=356&extension=ts&play_token=6wORyMYfNK
-#EXTINF:-1 group-title="NATUR" tvg-name="┃DE┃ DISCOVERY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/DISCOVERYCHANNELHD.png" ,┃DE┃ DISCOVERY HD
+#EXTINF:-1 group-title="NATUR" tvg-name="Discovery Life Channel" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/DISCOVERYCHANNELHD.png"  tvg-id="464838",┃DE┃ DISCOVERY HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=355&extension=ts&play_token=GJZAchidp4
-#EXTINF:-1 group-title="NATUR" tvg-name="┃DE┃ CRIME+ INVESTIGATION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Crime_+_Investigation_Logo_10.2019.png" ,┃DE┃ CRIME+ INVESTIGATION HD
+#EXTINF:-1 group-title="NATUR" tvg-name="Crime and Investigation Network HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Crime_+_Investigation_Logo_10.2019.png"  tvg-id="465040",┃DE┃ CRIME+ INVESTIGATION HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=354&extension=ts&play_token=nzqoB113PS
 #EXTINF:-1 group-title="NATUR" tvg-name="┃DE┃ HISTORY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/History-Channel-logo.png" ,┃DE┃ HISTORY HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=353&extension=ts&play_token=ioU25m2Ea8
-#EXTINF:-1 group-title="NATUR" tvg-name="┃DE┃ ANIMAL PLANET HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ANIMALPLANETHD.png" ,┃DE┃ ANIMAL PLANET HD
+#EXTINF:-1 group-title="NATUR" tvg-name="Animal Planet HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ANIMALPLANETHD.png"  tvg-id="465310",┃DE┃ ANIMAL PLANET HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=352&extension=ts&play_token=t9A0HkF5Yk
-#EXTINF:-1 group-title="NATUR" tvg-name="┃DE┃ TLC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TLC.png" ,┃DE┃ TLC HD
+#EXTINF:-1 group-title="NATUR" tvg-name="TLC" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TLC.png"  tvg-id="TLC.de",┃DE┃ TLC HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=403&extension=ts&play_token=X6DnYLxCCG
 #EXTINF:-1 group-title="NATUR" tvg-name="┃DE┃ SPIEGEL GESCHICHTE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPIEGELGEDCHICHTEHD.png" ,┃DE┃ SPIEGEL GESCHICHTE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=406&extension=ts&play_token=8X4PxGGbAt
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ DAS ERSTE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DASERSTE1HD.png" ,┃DE┃ DAS ERSTE 4K
+#EXTINF:-1 group-title="4K" tvg-name="Das Erste" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DASERSTE1HD.png"  tvg-id="DasErste.de",┃DE┃ DAS ERSTE 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15347&extension=ts&play_token=XTziO0165D
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ ZDF 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDF2HD.png" ,┃DE┃ ZDF 4K
+#EXTINF:-1 group-title="4K" tvg-name="ZDF" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDF2HD.png"  tvg-id="ZDF.de",┃DE┃ ZDF 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15348&extension=ts&play_token=9Pj6c3X5l9
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ RTL 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTLHD.png" ,┃DE┃ RTL 4K
+#EXTINF:-1 group-title="4K" tvg-name="RTL" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTLHD.png"  tvg-id="RTL.de",┃DE┃ RTL 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15349&extension=ts&play_token=z0VuohPsjL
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ RTL II 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTLZWEIHD.png" ,┃DE┃ RTL II 4K
+#EXTINF:-1 group-title="4K" tvg-name="RTL II" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTLZWEIHD.png"  tvg-id="RTL2.de",┃DE┃ RTL II 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15350&extension=ts&play_token=9QgJ5Olfro
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ SAT.1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SAT1HD.png" ,┃DE┃ SAT.1 4K
+#EXTINF:-1 group-title="4K" tvg-name="Sat.1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SAT1HD.png"  tvg-id="Sat1.de",┃DE┃ SAT.1 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15351&extension=ts&play_token=D1Fx8EbDgh
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ PROSIEBEN 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PRO7HD.png" ,┃DE┃ PROSIEBEN 4K
+#EXTINF:-1 group-title="4K" tvg-name="ProSieben" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PRO7HD.png"  tvg-id="ProSieben.de",┃DE┃ PROSIEBEN 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15354&extension=ts&play_token=YhOx1CZsaQ
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ PROSIEBEN MAXX 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/7MAXXHD.png" ,┃DE┃ PROSIEBEN MAXX 4K
+#EXTINF:-1 group-title="4K" tvg-name="ProSieben Maxx" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/7MAXXHD.png"  tvg-id="ProSiebenMaxx.de",┃DE┃ PROSIEBEN MAXX 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15355&extension=ts&play_token=Y5P6KYwz0I
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ PROSIEBEN FUN 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PRO7HD.png" ,┃DE┃ PROSIEBEN FUN 4K
+#EXTINF:-1 group-title="4K" tvg-name="ProSieben" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PRO7HD.png"  tvg-id="ProSieben.de",┃DE┃ PROSIEBEN FUN 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15356&extension=ts&play_token=wntXzUPZg7
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ VOX 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/VOXHD.png" ,┃DE┃ VOX 4K
+#EXTINF:-1 group-title="4K" tvg-name="VOX" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/VOXHD.png"  tvg-id="Vox.de",┃DE┃ VOX 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15357&extension=ts&play_token=ayIEGL6UQK
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ KABEL EINS 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KABELEINSHD.png" ,┃DE┃ KABEL EINS 4K
+#EXTINF:-1 group-title="4K" tvg-name="kabel eins" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KABELEINSHD.png"  tvg-id="KabelEins.de",┃DE┃ KABEL EINS 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15359&extension=ts&play_token=D40hdt0VD1
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ KABEL EINS DOKU 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KABELEINSDOKU.png" ,┃DE┃ KABEL EINS DOKU 4K
+#EXTINF:-1 group-title="4K" tvg-name="kabel eins Doku" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KABELEINSDOKU.png"  tvg-id="KabelEinsDoku.de",┃DE┃ KABEL EINS DOKU 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15360&extension=ts&play_token=9V4TcKV1ji
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ KABEL EINS CLASSICS 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KABELEINSCLASSICSHD.png" ,┃DE┃ KABEL EINS CLASSICS 4K
+#EXTINF:-1 group-title="4K" tvg-name="kabel eins class" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KABELEINSCLASSICSHD.png"  tvg-id="KabelEinsClassic.de",┃DE┃ KABEL EINS CLASSICS 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15361&extension=ts&play_token=Pmc189BZm6
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ ARTE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ARTEHD.png" ,┃DE┃ ARTE 4K
+#EXTINF:-1 group-title="4K" tvg-name="ARTE" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ARTEHD.png"  tvg-id="ARTE.de",┃DE┃ ARTE 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15362&extension=ts&play_token=HgoQjvF524
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ SIXX 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SIXXHD.png" ,┃DE┃ SIXX 4K
+#EXTINF:-1 group-title="4K" tvg-name="sixx" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SIXXHD.png"  tvg-id="Sixx.de",┃DE┃ SIXX 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15363&extension=ts&play_token=YPU9LgsMLg
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ NTV 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NTVHD.png" ,┃DE┃ NTV 4K
+#EXTINF:-1 group-title="4K" tvg-name="n-tv" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NTVHD.png"  tvg-id="ntv.de",┃DE┃ NTV 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15365&extension=ts&play_token=4fgwkJj5xd
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ TAGESSCHAU24 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TAGESSCHAU24HD.png" ,┃DE┃ TAGESSCHAU24 4K
+#EXTINF:-1 group-title="4K" tvg-name="tagesschau24" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TAGESSCHAU24HD.png"  tvg-id="tagesschau24.de",┃DE┃ TAGESSCHAU24 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15368&extension=ts&play_token=mS3taMtkJL
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ PHOENIX 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/CHINA/Phoenix_Chinese.svg.png" ,┃DE┃ PHOENIX 4K
+#EXTINF:-1 group-title="4K" tvg-name="phoenix" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/CHINA/Phoenix_Chinese.svg.png"  tvg-id="phoenix.de",┃DE┃ PHOENIX 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=708702&extension=ts&play_token=OkzKEUyMlv
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ ARD-ALPHA 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ARD1ALPHAHD.png" ,┃DE┃ ARD-ALPHA 4K
+#EXTINF:-1 group-title="4K" tvg-name="ard-alpha" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ARD1ALPHAHD.png"  tvg-id="ARD-alpha.de",┃DE┃ ARD-ALPHA 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15369&extension=ts&play_token=EFQdgEnro8
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ NITRO 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NITROHD.png" ,┃DE┃ NITRO 4K
+#EXTINF:-1 group-title="4K" tvg-name="RTL Nitro" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NITROHD.png"  tvg-id="RTLNitro.de",┃DE┃ NITRO 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15372&extension=ts&play_token=4zPooNEaw4
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ ZDF NEO 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFNEOHD.png" ,┃DE┃ ZDF NEO 4K
+#EXTINF:-1 group-title="4K" tvg-name="ZDFneo" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFNEOHD.png"  tvg-id="ZDFneo.de",┃DE┃ ZDF NEO 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15374&extension=ts&play_token=QWBC9Eo4fT
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ ZDF INFO 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFINFOHD.png" ,┃DE┃ ZDF INFO 4K
+#EXTINF:-1 group-title="4K" tvg-name="ZDFinfokanal" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFINFOHD.png"  tvg-id="ZDFinfo.de",┃DE┃ ZDF INFO 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15375&extension=ts&play_token=bPYOBL23Ca
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ DMAX 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DMAXHD.png" ,┃DE┃ DMAX 4K
+#EXTINF:-1 group-title="4K" tvg-name="DMAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DMAXHD.png"  tvg-id="DMax.de",┃DE┃ DMAX 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15376&extension=ts&play_token=hX9NYaEdTd
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ TELE 5 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TELE6HD.png" ,┃DE┃ TELE 5 4K
+#EXTINF:-1 group-title="4K" tvg-name="Tele 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TELE6HD.png"  tvg-id="Tele5.de",┃DE┃ TELE 5 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15377&extension=ts&play_token=m7cVKkyc7L
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ ANIXE+ 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIXEHD.png" ,┃DE┃ ANIXE+ 4K
+#EXTINF:-1 group-title="4K" tvg-name="ANIXE SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ANIXEHD.png"  tvg-id="Anixe.de",┃DE┃ ANIXE+ 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15378&extension=ts&play_token=qqn4LyZ5Ai
-#EXTINF:-1 group-title="4K" tvg-name="┃DE┃ WELT 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/WELTHD.png" ,┃DE┃ WELT 4K
+#EXTINF:-1 group-title="4K" tvg-name="WELT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/WELTHD.png"  tvg-id="WELT.de",┃DE┃ WELT 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15379&extension=ts&play_token=oHfZxagqGQ
 #EXTINF:-1 group-title="KIDS 4K" tvg-name="☰☰☰☰ ┃DE┃ PAKET KINDER 4K ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/GERMANYFLAG.png" ,☰☰☰☰ ┃DE┃ PAKET KINDER 4K ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15381&extension=ts&play_token=yBPYBNzHoO
-#EXTINF:-1 group-title="KIDS 4K" tvg-name="┃DE┃ NICK 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/NICKTOONS.png" ,┃DE┃ NICK 4K
+#EXTINF:-1 group-title="KIDS 4K" tvg-name="Nick Jr HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/NICKTOONS.png"  tvg-id="464911",┃DE┃ NICK 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15382&extension=ts&play_token=gaUSueFvh0
-#EXTINF:-1 group-title="KIDS 4K" tvg-name="┃DE┃ DISNEY CHANNEL 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Disney_Channel_2022.png" ,┃DE┃ DISNEY CHANNEL 4K
+#EXTINF:-1 group-title="KIDS 4K" tvg-name="Disney Channel" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Disney_Channel_2022.png"  tvg-id="disneychannel.de",┃DE┃ DISNEY CHANNEL 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15383&extension=ts&play_token=1k8Vn1E8YE
 #EXTINF:-1 group-title="KIDS 4K" tvg-name="┃DE┃ CARTOON NETWORK 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CNHD.png" ,┃DE┃ CARTOON NETWORK 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15384&extension=ts&play_token=Be5n0Y3YzU
 #EXTINF:-1 group-title="KIDS 4K" tvg-name="┃DE┃ CARTOONITO 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CARTOONITO.png" ,┃DE┃ CARTOONITO 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15385&extension=ts&play_token=lueb1iP9hU
-#EXTINF:-1 group-title="KIDS 4K" tvg-name="┃DE┃ SUPER RTL / TOGGO 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TOGGOSUPERRTLHD.png" ,┃DE┃ SUPER RTL / TOGGO 4K
+#EXTINF:-1 group-title="KIDS 4K" tvg-name="Super RTL" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TOGGOSUPERRTLHD.png"  tvg-id="SuperRTL.de",┃DE┃ SUPER RTL / TOGGO 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15386&extension=ts&play_token=AE0bzUtwFT
-#EXTINF:-1 group-title="KIDS 4K" tvg-name="┃DE┃ KIKA 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KIKAVONARDUNDZDFHD.png" ,┃DE┃ KIKA 4K
+#EXTINF:-1 group-title="KIDS 4K" tvg-name="KIKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KIKAVONARDUNDZDFHD.png"  tvg-id="Kika.de",┃DE┃ KIKA 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15387&extension=ts&play_token=CVLvxdNs7e
 #EXTINF:-1 group-title="SKY FS 4K" tvg-name="☰☰☰☰ ┃DE┃ PAKET FILM UND SERIE 4K ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/GERMANYFLAG.png" ,☰☰☰☰ ┃DE┃ PAKET FILM UND SERIE 4K ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15402&extension=ts&play_token=MVYWd6bjK0
 #EXTINF:-1 group-title="SKY FS 4K" tvg-name="┃DE┃ SKY ONE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYONEHD.png" ,┃DE┃ SKY ONE 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15403&extension=ts&play_token=Hp0Z2MzNyd
-#EXTINF:-1 group-title="SKY FS 4K" tvg-name="┃DE┃ SKY CINEMA PREMIEREN 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" ,┃DE┃ SKY CINEMA PREMIEREN 4K
+#EXTINF:-1 group-title="SKY FS 4K" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png"  tvg-id="9315",┃DE┃ SKY CINEMA PREMIEREN 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15404&extension=ts&play_token=YSqszNC8YI
-#EXTINF:-1 group-title="SKY FS 4K" tvg-name="┃DE┃ SKY CINEMA ACTION 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" ,┃DE┃ SKY CINEMA ACTION 4K
+#EXTINF:-1 group-title="SKY FS 4K" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png"  tvg-id="9315",┃DE┃ SKY CINEMA ACTION 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15406&extension=ts&play_token=bOEBgmkscK
-#EXTINF:-1 group-title="SKY FS 4K" tvg-name="┃DE┃ SKY CINEMA HIGHLIGHT 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" ,┃DE┃ SKY CINEMA HIGHLIGHT 4K
+#EXTINF:-1 group-title="SKY FS 4K" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png"  tvg-id="9315",┃DE┃ SKY CINEMA HIGHLIGHT 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15409&extension=ts&play_token=WXABMuXBBs
-#EXTINF:-1 group-title="SKY FS 4K" tvg-name="┃DE┃ SKY CINEMA FAMILY 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" ,┃DE┃ SKY CINEMA FAMILY 4K
+#EXTINF:-1 group-title="SKY FS 4K" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png"  tvg-id="9315",┃DE┃ SKY CINEMA FAMILY 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15410&extension=ts&play_token=eCSt7BIXPO
-#EXTINF:-1 group-title="SKY FS 4K" tvg-name="┃DE┃ SKY CINEMA CLASSICS 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" ,┃DE┃ SKY CINEMA CLASSICS 4K
+#EXTINF:-1 group-title="SKY FS 4K" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png"  tvg-id="9315",┃DE┃ SKY CINEMA CLASSICS 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15411&extension=ts&play_token=OxHPwoXXbZ
-#EXTINF:-1 group-title="SKY FS 4K" tvg-name="┃DE┃ SKY ATLANTIC 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYATLANTIC.png" ,┃DE┃ SKY ATLANTIC 4K
+#EXTINF:-1 group-title="SKY FS 4K" tvg-name="Sky Atlantic" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYATLANTIC.png"  tvg-id="12478",┃DE┃ SKY ATLANTIC 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15413&extension=ts&play_token=ZD3WqNU1Gl
-#EXTINF:-1 group-title="SKY FS 4K" tvg-name="┃DE┃ SKY KRIMI 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYCRIME.png" ,┃DE┃ SKY KRIMI 4K
+#EXTINF:-1 group-title="SKY FS 4K" tvg-name="Sky Crime" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYCRIME.png"  tvg-id="12394",┃DE┃ SKY KRIMI 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15414&extension=ts&play_token=yJiPSlIG8r
 #EXTINF:-1 group-title="SKY FS 4K" tvg-name="┃DE┃ SKY SC-FI 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYREPLAYHD.png" ,┃DE┃ SKY SC-FI 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15415&extension=ts&play_token=OJodfsmEbI
-#EXTINF:-1 group-title="SKY FS 4K" tvg-name="┃DE┃ SKY CRIME 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYCRIME.png" ,┃DE┃ SKY CRIME 4K
+#EXTINF:-1 group-title="SKY FS 4K" tvg-name="Sky Crime" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYCRIME.png"  tvg-id="12394",┃DE┃ SKY CRIME 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15438&extension=ts&play_token=nZEKFzDBvP
 #EXTINF:-1 group-title="SKY FS 4K" tvg-name="┃DE┃ SKY SHOWCASE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYSHOWCASE.png" ,┃DE┃ SKY SHOWCASE 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=211881&extension=ts&play_token=XJt5u7gHDK
 #EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="☰☰☰☰ ┃DE┃ PAKET UNTERHALTUNG 4K ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/GERMANYFLAG.png" ,☰☰☰☰ ┃DE┃ PAKET UNTERHALTUNG 4K ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15388&extension=ts&play_token=ev4fyvQVG4
-#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="┃DE┃ MTV 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVHD.png" ,┃DE┃ MTV 4K
+#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="MTV" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVHD.png"  tvg-id="MTV.de",┃DE┃ MTV 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15390&extension=ts&play_token=VBhHUNuUQJ
-#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="┃DE┃ COMEDY CENTRAL 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Comedy_Central_2018.png" ,┃DE┃ COMEDY CENTRAL 4K
+#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="Comedy Central HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Comedy_Central_2018.png"  tvg-id="464922",┃DE┃ COMEDY CENTRAL 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15391&extension=ts&play_token=zA4BP7N1mu
 #EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="┃DE┃ 13TH STREET 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/13STREETTHHD.png" ,┃DE┃ 13TH STREET 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15392&extension=ts&play_token=eYArg4gilh
@@ -403,21 +403,21 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15399&ex
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15401&extension=ts&play_token=mCGXJgvQDp
 #EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="☰☰☰☰ ┃DE┃ PAKET NATUR 4K ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/GERMANYFLAG.png" ,☰☰☰☰ ┃DE┃ PAKET NATUR 4K ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15427&extension=ts&play_token=s3AzChlLGI
-#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="┃DE┃ NAT GEO 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NATIONALGEOGRAPHIC.png" ,┃DE┃ NAT GEO 4K
+#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="National Geographic" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NATIONALGEOGRAPHIC.png"  tvg-id="6303",┃DE┃ NAT GEO 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15428&extension=ts&play_token=sTS53qVO7R
 #EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="┃DE┃ NAT GEO WILD 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NGWILDHD.png" ,┃DE┃ NAT GEO WILD 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15429&extension=ts&play_token=aE2DubQZbO
-#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="┃DE┃ DISCOVERY 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/DISCOVERYCHANNELHD.png" ,┃DE┃ DISCOVERY 4K
+#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="Discovery Life Channel" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/DISCOVERYCHANNELHD.png"  tvg-id="464838",┃DE┃ DISCOVERY 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15430&extension=ts&play_token=y5tVMW3eot
-#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="┃DE┃ CRIME+ INVESTIGATION 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Crime_+_Investigation_Logo_10.2019.png" ,┃DE┃ CRIME+ INVESTIGATION 4K
+#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="Crime and Investigation Network HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Crime_+_Investigation_Logo_10.2019.png"  tvg-id="465040",┃DE┃ CRIME+ INVESTIGATION 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15431&extension=ts&play_token=ba2lsZkxPd
 #EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="┃DE┃ HISTORY 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/History-Channel-logo.png" ,┃DE┃ HISTORY 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15432&extension=ts&play_token=35l3CErUzy
-#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="┃DE┃ TLC 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TLC.png" ,┃DE┃ TLC 4K
+#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="TLC" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TLC.png"  tvg-id="TLC.de",┃DE┃ TLC 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15433&extension=ts&play_token=FLjMe3HqLJ
-#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="┃DE┃ GEO 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/GEOTELEVISION.png" ,┃DE┃ GEO 4K
+#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="GEO TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/GEOTELEVISION.png"  tvg-id="GeoTV.de",┃DE┃ GEO 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15434&extension=ts&play_token=IUSo5PVl2M
-#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="┃DE┃ HGTV 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HGTVHD.png" ,┃DE┃ HGTV 4K
+#EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="HGTV" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/HGTVHD.png"  tvg-id="HGTV.de",┃DE┃ HGTV 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15435&extension=ts&play_token=iV5eFgTWN3
 #EXTINF:-1 group-title="UNTERHALTUNG4K" tvg-name="┃DE┃ SPIEGEL GESCHICHTE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPIEGELGEDCHICHTEHD.png" ,┃DE┃ SPIEGEL GESCHICHTE 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=15437&extension=ts&play_token=AmT1t5CnQ8
@@ -707,7 +707,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280491&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280492&extension=ts&play_token=uqTUxrBnAb
 #EXTINF:-1 group-title="MOVIE" tvg-name="┃DE┃ ARNOLD SCHWARZENEGGER" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/┃DE┃ FILME 247/FILME 247.png" ,┃DE┃ ARNOLD SCHWARZENEGGER
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280442&extension=ts&play_token=Q8YcqSRRxP
-#EXTINF:-1 group-title="MOVIE" tvg-name="┃DE┃ BOLLYWOOD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/┃DE┃ FILME 247/FILME 247.png" ,┃DE┃ BOLLYWOOD
+#EXTINF:-1 group-title="MOVIE" tvg-name="Bollywood" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/┃DE┃ FILME 247/FILME 247.png"  tvg-id="7094",┃DE┃ BOLLYWOOD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280500&extension=ts&play_token=NSs6PbdW66
 #EXTINF:-1 group-title="MOVIE" tvg-name="┃DE┃ BUD SPENCER 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/┃DE┃ FILME 247/FILME 247.png" ,┃DE┃ BUD SPENCER 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280479&extension=ts&play_token=fvZ391WhlJ
@@ -913,7 +913,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=685679&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=685678&extension=ts&play_token=wfckaPabrB
 #EXTINF:-1 group-title="MOVIE" tvg-name="┃DE┃ VIKINGS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" ,┃DE┃ VIKINGS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=685677&extension=ts&play_token=DGX0ggP5KN
-#EXTINF:-1 group-title="SKY SELECT" tvg-name="┃DE┃ SKY SELECT PROGRAMMUMBERSICHT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" ,┃DE┃ SKY SELECT PROGRAMMUMBERSICHT
+#EXTINF:-1 group-title="SKY SELECT" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png"  tvg-id="9315",┃DE┃ SKY SELECT PROGRAMMUMBERSICHT
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=684980&extension=ts&play_token=IPe1Q6wZkL
 #EXTINF:-1 group-title="SKY SELECT" tvg-name="┃DE┃ SKY SELECT 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSELECTHD.png" ,┃DE┃ SKY SELECT 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=685182&extension=ts&play_token=gCjRUeQRBO
@@ -975,7 +975,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=684974&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=684966&extension=ts&play_token=DKSoUUKvPt
 #EXTINF:-1 group-title="MAX KINO" tvg-name="┃DE┃ MAX STAR WARS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" ,┃DE┃ MAX STAR WARS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=684965&extension=ts&play_token=taGXq9IIHL
-#EXTINF:-1 group-title="SKY STORE SELECT" tvg-name="┃DE┃ SKY STORE SELECT INFO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" ,┃DE┃ SKY STORE SELECT INFO HD
+#EXTINF:-1 group-title="SKY STORE SELECT" tvg-name="Sky Cinema Select" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png"  tvg-id="9315",┃DE┃ SKY STORE SELECT INFO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=796119&extension=ts&play_token=7pk9K5g4Mo
 #EXTINF:-1 group-title="SKY STORE SELECT" tvg-name="┃DE┃ SKY STORE SELECT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY STORE SELECT/SKY STORE SELECT.png" ,┃DE┃ SKY STORE SELECT 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=796118&extension=ts&play_token=RzG7g3U21v
@@ -1275,73 +1275,73 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=685719&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=685718&extension=ts&play_token=NrCfL68sA3
 #EXTINF:-1 group-title="SERIE" tvg-name="┃DE┃ DEXTER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" ,┃DE┃ DEXTER HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=685714&extension=ts&play_token=SPlfOwTYVQ
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ DAS ERSTE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/DAS ERSTE.png" ,┃DE┃ DAS ERSTE HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="Das Erste" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/DAS ERSTE.png"  tvg-id="DasErste.de",┃DE┃ DAS ERSTE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280625&extension=ts&play_token=C1n6fnz0Iw
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ ZDF HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ZDF.png" ,┃DE┃ ZDF HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="ZDF" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ZDF.png"  tvg-id="ZDF.de",┃DE┃ ZDF HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280832&extension=ts&play_token=s8UyDHAiVC
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ RTL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/RTL.png" ,┃DE┃ RTL HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="RTL" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/RTL.png"  tvg-id="RTL.de",┃DE┃ RTL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280757&extension=ts&play_token=ojbFDoqAEo
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ SAT.1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SAT.1.png" ,┃DE┃ SAT.1 HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="Sat.1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SAT.1.png"  tvg-id="Sat1.de",┃DE┃ SAT.1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280770&extension=ts&play_token=eBsmdL0nYK
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ PROSIEBEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/PROSIEBEN.png" ,┃DE┃ PROSIEBEN HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="ProSieben" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/PROSIEBEN.png"  tvg-id="ProSieben.de",┃DE┃ PROSIEBEN HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280734&extension=ts&play_token=4cgaR2WEQ4
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ VOX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/VOX.png" ,┃DE┃ VOX HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="VOX" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/VOX.png"  tvg-id="Vox.de",┃DE┃ VOX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280812&extension=ts&play_token=qUYXmVHJcJ
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ KABEL EINS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/KABEL EINS.png" ,┃DE┃ KABEL EINS HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="kabel eins" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/KABEL EINS.png"  tvg-id="KabelEins.de",┃DE┃ KABEL EINS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280669&extension=ts&play_token=Zq0zMbcXU9
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ RTLZWEI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/RTLZWEI.png" ,┃DE┃ RTLZWEI HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="RTL II" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/RTLZWEI.png"  tvg-id="RTL2.de",┃DE┃ RTLZWEI HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280764&extension=ts&play_token=u1HCJ8V7Jm
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ 3SAT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/3SAT.png" ,┃DE┃ 3SAT HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="3sat" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/3SAT.png"  tvg-id="3sat.de",┃DE┃ 3SAT HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280592&extension=ts&play_token=HEJ6X4KlVO
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ WELT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/WELT.png" ,┃DE┃ WELT HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="WELT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/WELT.png"  tvg-id="WELT.de",┃DE┃ WELT HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280830&extension=ts&play_token=mJ6XLduVo2
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ NTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/NTV.png" ,┃DE┃ NTV HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="n-tv" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/NTV.png"  tvg-id="ntv.de",┃DE┃ NTV HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280722&extension=ts&play_token=H7biO1n1wF
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ PHOENIX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/PHOENIX.png" ,┃DE┃ PHOENIX HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="phoenix" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/PHOENIX.png"  tvg-id="phoenix.de",┃DE┃ PHOENIX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280732&extension=ts&play_token=gFYSC1plau
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ TELE 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TELE 5.png" ,┃DE┃ TELE 5 HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="Tele 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TELE 5.png"  tvg-id="Tele5.de",┃DE┃ TELE 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280796&extension=ts&play_token=D8h8VfGvKS
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ ZDFNEO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ZDFNEO.png" ,┃DE┃ ZDFNEO HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="ZDFneo" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ZDFNEO.png"  tvg-id="ZDFneo.de",┃DE┃ ZDFNEO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280834&extension=ts&play_token=ZyWzD91ikW
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ ARTE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ARTE.png" ,┃DE┃ ARTE HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="ARTE" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ARTE.png"  tvg-id="ARTE.de",┃DE┃ ARTE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280602&extension=ts&play_token=8OhH6cp2s7
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ ANIXE+ HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ANIXE+.png" ,┃DE┃ ANIXE+ HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="ANIXE SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ANIXE+.png"  tvg-id="Anixe.de",┃DE┃ ANIXE+ HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280599&extension=ts&play_token=c9nEgLPSue
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ ANIXE HD SERIE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ANIXE HD SERIE.png" ,┃DE┃ ANIXE HD SERIE HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="ANIXE Serie HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ANIXE HD SERIE.png"  tvg-id="AnixeSerie.de",┃DE┃ ANIXE HD SERIE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280600&extension=ts&play_token=2b39jIwmcQ
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ COMEDY CENTRAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/COMEDY CENTRAL.png" ,┃DE┃ COMEDY CENTRAL HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="Comedy Central HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/COMEDY CENTRAL.png"  tvg-id="464922",┃DE┃ COMEDY CENTRAL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280622&extension=ts&play_token=k6hgRz3P9M
 #EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ TOP SERIEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TOP SERIEN.png" ,┃DE┃ TOP SERIEN HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280801&extension=ts&play_token=iZulkDu82h
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ DISNEY CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/DISNEY CHANNEL.png" ,┃DE┃ DISNEY CHANNEL HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="Disney Channel" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/DISNEY CHANNEL.png"  tvg-id="disneychannel.de",┃DE┃ DISNEY CHANNEL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280629&extension=ts&play_token=qoXVUNwEmB
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ DMAX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/DMAX.png" ,┃DE┃ DMAX HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="DMAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/DMAX.png"  tvg-id="DMax.de",┃DE┃ DMAX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280630&extension=ts&play_token=oryGJ8txLL
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ PROSIEBEN MAXX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/PROSIEBEN MAXX.png" ,┃DE┃ PROSIEBEN MAXX HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="ProSieben Maxx" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/PROSIEBEN MAXX.png"  tvg-id="ProSiebenMaxx.de",┃DE┃ PROSIEBEN MAXX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280735&extension=ts&play_token=1RrlVQHGL3
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ NITRO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/NITRO.png" ,┃DE┃ NITRO HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="RTL Nitro" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/NITRO.png"  tvg-id="RTLNitro.de",┃DE┃ NITRO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280720&extension=ts&play_token=hI9g5KdXqu
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ SIXX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SIXX.png" ,┃DE┃ SIXX HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="sixx" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SIXX.png"  tvg-id="Sixx.de",┃DE┃ SIXX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280777&extension=ts&play_token=yDh14O78Z8
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ TLC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TLC.png" ,┃DE┃ TLC HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="TLC" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TLC.png"  tvg-id="TLC.de",┃DE┃ TLC HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280799&extension=ts&play_token=8S2BeIVVJ2
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ TOGGO PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TOGGO PLUS.png" ,┃DE┃ TOGGO PLUS HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="TOGGOplus" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TOGGO PLUS.png"  tvg-id="TOGGOplus.de",┃DE┃ TOGGO PLUS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280800&extension=ts&play_token=A0zFwoSjyb
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ ARD-ALPHA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ARD-ALPHA.png" ,┃DE┃ ARD-ALPHA HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="ard-alpha" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ARD-ALPHA.png"  tvg-id="ARD-alpha.de",┃DE┃ ARD-ALPHA HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280601&extension=ts&play_token=Xd8g2hBky0
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ ZDFINFO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ZDFINFO.png" ,┃DE┃ ZDFINFO HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="ZDFinfokanal" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ZDFINFO.png"  tvg-id="ZDFinfo.de",┃DE┃ ZDFINFO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280833&extension=ts&play_token=FoNN125fK9
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ TAGESSCHAU24 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TAGESSCHAU24.png" ,┃DE┃ TAGESSCHAU24 HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="tagesschau24" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TAGESSCHAU24.png"  tvg-id="tagesschau24.de",┃DE┃ TAGESSCHAU24 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280795&extension=ts&play_token=2U1wGkpcXH
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ KABEL EINS DOKU HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/KABEL EINS DOKU.png" ,┃DE┃ KABEL EINS DOKU HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="kabel eins Doku" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/KABEL EINS DOKU.png"  tvg-id="KabelEinsDoku.de",┃DE┃ KABEL EINS DOKU HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280668&extension=ts&play_token=22m2r1ej9d
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ N24 Doku HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/N24 Doku.png" ,┃DE┃ N24 Doku HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="N24 Doku" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/N24 Doku.png"  tvg-id="N24Doku.de",┃DE┃ N24 Doku HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280708&extension=ts&play_token=ROIAViQVVZ
 #EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ WELT DER WUNDER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/WELT DER WUNDER.png" ,┃DE┃ WELT DER WUNDER HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280829&extension=ts&play_token=b276dJbfgG
 #EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ 13TH STREET HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/13TH STREET.png" ,┃DE┃ 13TH STREET HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280593&extension=ts&play_token=4mkkS2MbYj
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ ANIMAL PLANET HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ANIMAL PLANET.png" ,┃DE┃ ANIMAL PLANET HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="Animal Planet HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ANIMAL PLANET.png"  tvg-id="465310",┃DE┃ ANIMAL PLANET HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280598&extension=ts&play_token=0xqkdoZawl
 #EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ AXN BLACK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/AXN BLACK.png" ,┃DE┃ AXN BLACK HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280605&extension=ts&play_token=2GsO30goll
@@ -1351,23 +1351,23 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280606&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280617&extension=ts&play_token=BVjwwHilJN
 #EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ CARTOON NETWORK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/CARTOON NETWORK.png" ,┃DE┃ CARTOON NETWORK HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280618&extension=ts&play_token=BjIcKXcpwX
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ CRIME+INVESTIGATION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/CRIME+INVESTIGATION.png" ,┃DE┃ CRIME+INVESTIGATION HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="Crime and Investigation Network HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/CRIME+INVESTIGATION.png"  tvg-id="465040",┃DE┃ CRIME+INVESTIGATION HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280623&extension=ts&play_token=PQJ18RVyam
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ DISCOVERY CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/DISCOVERY CHANNEL.png" ,┃DE┃ DISCOVERY CHANNEL HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="Discovery Life Channel" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/DISCOVERY CHANNEL.png"  tvg-id="464838",┃DE┃ DISCOVERY CHANNEL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280628&extension=ts&play_token=b2THEiVkzk
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ KABEL EINS CLASSICS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/KABEL EINS CLASSICS.png" ,┃DE┃ KABEL EINS CLASSICS HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="kabel eins class" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/KABEL EINS CLASSICS.png"  tvg-id="KabelEinsClassic.de",┃DE┃ KABEL EINS CLASSICS HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280667&extension=ts&play_token=cJEahA2NoR
 #EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ KINOWELTTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/KINOWELTTV.png" ,┃DE┃ KINOWELTTV HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280671&extension=ts&play_token=azVCioBwHn
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ NATIONAL GEOGRAPHIC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/NATIONAL GEOGRAPHIC.png" ,┃DE┃ NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="National Geographic" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/NATIONAL GEOGRAPHIC.png"  tvg-id="6303",┃DE┃ NATIONAL GEOGRAPHIC HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280709&extension=ts&play_token=GWZGY9hWoR
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/NATIONAL GEOGRAPHIC WILD.png" ,┃DE┃ NATIONAL GEOGRAPHIC WILD HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="National Geographic" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/NATIONAL GEOGRAPHIC WILD.png"  tvg-id="6303",┃DE┃ NATIONAL GEOGRAPHIC WILD HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280710&extension=ts&play_token=Qdx7XoeEiK
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ PROSIEBEN FUN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/PROSIEBEN FUN.png" ,┃DE┃ PROSIEBEN FUN HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="ProSieben" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/PROSIEBEN FUN.png"  tvg-id="ProSieben.de",┃DE┃ PROSIEBEN FUN HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280733&extension=ts&play_token=h5HMVndekP
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ RTL NORDRHEIN-WESTFALEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/RTL NORDRHEIN-WESTFALEN.png" ,┃DE┃ RTL NORDRHEIN-WESTFALEN HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="RTL" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/RTL NORDRHEIN-WESTFALEN.png"  tvg-id="RTL.de",┃DE┃ RTL NORDRHEIN-WESTFALEN HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280760&extension=ts&play_token=OYGE1sIYcM
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ SAT.1 NORDRHEIN-WESTFALEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SAT.1 NORDRHEIN-WESTFALEN.png" ,┃DE┃ SAT.1 NORDRHEIN-WESTFALEN HD
+#EXTINF:-1 group-title="GERMAN" tvg-name="Sat.1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SAT.1 NORDRHEIN-WESTFALEN.png"  tvg-id="Sat1.de",┃DE┃ SAT.1 NORDRHEIN-WESTFALEN HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280772&extension=ts&play_token=xNdnf9GaMU
 #EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ SPIEGEL GESCHICHTE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SPIEGEL GESCHICHTE.png" ,┃DE┃ SPIEGEL GESCHICHTE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280779&extension=ts&play_token=pgtJfyvgoa
@@ -1379,6 +1379,5 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280814&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280815&extension=ts&play_token=05JPIcb2LO
 #EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ WARNER TV SERIE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/WARNER TV SERIE.png" ,┃DE┃ WARNER TV SERIE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280816&extension=ts&play_token=RrTPQGXSP4
-#EXTINF:-1 group-title="GERMAN" tvg-name="┃DE┃ WETTER.COM TV SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/WETTER.COM TV.png" ,┃DE┃ WETTER.COM TV SD
+#EXTINF:-1 group-title="GERMAN" tvg-name="Wetter Fernsehen" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/WETTER.COM TV.png"  tvg-id="Wetterfernsehen.de",┃DE┃ WETTER.COM TV SD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:30:92:55&stream=1280831&extension=ts&play_token=IYGeHaDy9W
-
